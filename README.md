@@ -4,5 +4,5 @@ First file used to generate the dynamic model as a function of the absolut angle
 Second File used to obtain the dynamic model of the biped as a function of the relative or the controlled joint angles.
 Absolute angles are: theta1, theta2, theta3, theta4, theta5.
 Relative angles are: q0, q1, q2, q3, q4.
-Also there is a file named Biped.pdf contain the schematic diagram of the biped with all absolute and relative angles.
-
+Also, there is a file named Biped.pdf contain the schematic diagram of the biped with all absolute and relative angles.
+The model is taken from the paper under title " Tzafestas, S., Raibert, M., & Tzafestas, C. (1996). Robust sliding-mode control applied to a 5-link biped robot. Journal of Intelligent & Robotic Systems, 15(1), 67-133."
