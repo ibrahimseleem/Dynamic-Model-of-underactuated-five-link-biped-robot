@@ -1,5 +1,6 @@
 # Dynamic-Model-of-underactuated-five-link-biped-robot
 This project contains two MATLAb functions which used to obtain the dynamic model of underactuated five-link biped robot.
+
 First file ( Generlazed.m) used to generate the dynamic model as a function of the absolut angles which are the angles between each link of the biped and the vertical axis.
 
 Second File (Relative.m) used to obtain the dynamic model of the biped as a function of the relative or the controlled joint angles.
