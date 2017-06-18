@@ -5,6 +5,8 @@ First file ( Generlazed.m) used to generate the dynamic model as a function of t
 
 Second File (Relative.m) used to obtain the dynamic model of the biped as a function of the relative or the controlled joint angles.
 
+Third file is Lagrange's equations which calculate equations of motion, I downloaded this function from this link ( https://www.mathworks.com/matlabcentral/fileexchange/23037-lagrange-s-equations )
+
 Absolute angles are: theta1, theta2, theta3, theta4, theta5.
 
 Relative angles are: q0, q1, q2, q3, q4.
